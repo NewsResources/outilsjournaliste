@@ -16,6 +16,7 @@
   },
   "author": "Cedric Motte et Jeremie Poiroux",
   "license": "MIT",
+   "nodeVersion": "0.14.2",
   "bugs": {
     "url": "https://github.com/NewsResources/outilsjournaliste/issues"
   },
