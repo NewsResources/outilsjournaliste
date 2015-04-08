@@ -17,10 +17,11 @@
   "author": "Cedric Motte et Jeremie Poiroux",
   "license": "MIT"
   },
-  "setupPhantom": true,
-  "nodeVersion": "0.14.2"
-  "bugs": {
-    "url": "https://github.com/NewsResources/outilsjournaliste/issues"
-  },
+"setupPhantom": true,
+"engines": {
+  "node": "0.12.2",
+"bugs": {
+  "url": "https://github.com/NewsResources/outilsjournaliste/issues"
+},
   "homepage": "https://github.com/NewsResources/outilsjournaliste"
 }
