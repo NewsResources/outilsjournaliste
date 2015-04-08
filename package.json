@@ -1,30 +1,24 @@
 {
   "name": "outilsjournaliste",
   "version": "1.0.0",
-  "description": "outils pour journaliste",
+  "description": "[![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope) [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
 	  "install": "./install.sh",
-	  "start": "node outilsjournalistes/index.js"
+	  "start": "node my_app/main.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/NewsResources/outilsjournaliste.git"
   },
-  "keywords": [
-    "outilsjournalistes"
-  ],
-  "author": "cedricmotte",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NewsResources/outilsjournaliste/issues",
- "nodeVersion": "0.14.2",
+    "url": "https://github.com/NewsResources/outilsjournaliste/issues"
   },
-  "homepage": "https://github.com/NewsResources/outilsjournaliste",
-  "ROOT_URL": "http://outilsjournalistes.cleverapps.io/",
-	"MONGO_URL": "mongodb://uttn9k44ia40p0t:iSvwJkLTgnwbh3JFCqxN@b7q42zwmomqv0jw.mongodb.clvrcld.net:27017/b7q42zwmomqv0jw"
-	},
+  "homepage": "https://github.com/NewsResources/outilsjournaliste"
 }
