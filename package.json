@@ -22,4 +22,7 @@
     "url": "https://github.com/NewsResources/outilsjournaliste/issues"
   },
   "homepage": "https://github.com/NewsResources/outilsjournaliste"
+  "ROOT_URL": "http://outilsjournalistes.cleverapps.io/",
+	"MONGO_URL": "mongodb://uttn9k44ia40p0t:iSvwJkLTgnwbh3JFCqxN@b7q42zwmomqv0jw.mongodb.clvrcld.net:27017/b7q42zwmomqv0jw"
+	},
 }
