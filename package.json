@@ -23,7 +23,7 @@
     "url": "https://github.com/NewsResources/outilsjournaliste/issues",
  "nodeVersion": "0.14.2",
   },
-  "homepage": "https://github.com/NewsResources/outilsjournaliste"
+  "homepage": "https://github.com/NewsResources/outilsjournaliste",
   "ROOT_URL": "http://outilsjournalistes.cleverapps.io/",
 	"MONGO_URL": "mongodb://uttn9k44ia40p0t:iSvwJkLTgnwbh3JFCqxN@b7q42zwmomqv0jw.mongodb.clvrcld.net:27017/b7q42zwmomqv0jw"
 	},
