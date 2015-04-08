@@ -1,27 +1,25 @@
 {
-    "name": "outils-journalistes",
-    "version": "1.0.0",
-    "description": "Meteor.js deployment demo for Clever-Cloud",
-    "scripts": {
-        "install": "./install.sh",
-        "start": "node my_app/main.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/NewsResources/outilsjournaliste"
-    },
-    "author": "Cedric Motte et Jeremie Poiroux avec l'app Telescope ",
-    "license": "MIT",
-    "homepage": "https://github.com/NewsResources/outilsjournaliste"
-	}
-	
-// Configure environment
-  "env": {
-    "ROOT_URL": "http://outilsjournalistes.cleverapps.io/",
-	"MONGO_URL": "mongodb://uttn9k44ia40p0t:iSvwJkLTgnwbh3JFCqxN@b7q42zwmomqv0jw.mongodb.clvrcld.net:27017/b7q42zwmomqv0jw"
-	},
-	
-  // WARNING: If nodeVersion omitted will setup 0.10.36 by default. Do not use v, only version number.
-  "nodeVersion": "0.14.12",
-// Install PhantomJS in the server
-"setupPhantom": true,
+  "name": "outilsjournaliste",
+  "version": "1.0.0",
+  "description": "outils pour journaliste",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NewsResources/outilsjournaliste.git"
+  },
+  "keywords": [
+    "outilsjournalistes"
+  ],
+  "author": "cedricmotte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NewsResources/outilsjournaliste/issues"
+  },
+  "homepage": "https://github.com/NewsResources/outilsjournaliste"
+}
