@@ -1,0 +1,16 @@
+{
+    "name": "demo-meteorjs",
+    "version": "1.0.0",
+    "description": "Meteor.js deployment demo for Clever-Cloud",
+    "scripts": {
+        "install": "./install.sh",
+        "start": "node my_app/main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NewsResources/outilsjournaliste"
+    },
+    "author": "Cedric Motte et Jeremie Poiroux avec l'app Telescope ",
+    "license": "MIT",
+    "homepage": "https://github.com/NewsResources/outilsjournaliste"
+	}
