@@ -7,7 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	  "install": "./install.sh",
+	  "start": "node my_app/main.js"
   },
   "repository": {
     "type": "git",
