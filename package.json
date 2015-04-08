@@ -18,8 +18,10 @@
     "license": "MIT",
     "setupPhantom": true,
     "engines": {
-        "node": "0.12.2",
-        "bugs": {
-            "url": "https://github.com/NewsResources/outilsjournaliste/issues",
-            "homepage": "https://github.com/NewsResources/outilsjournaliste"
-        }
+        "node": "0.10.38"
+    },
+    "bugs": {
+        "url": "https://github.com/NewsResources/outilsjournaliste/issues",
+        "homepage": "https://github.com/NewsResources/outilsjournaliste"
+    }
+}
