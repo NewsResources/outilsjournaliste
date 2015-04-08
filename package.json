@@ -1,27 +1,25 @@
 {
-  "name": "outilsjournaliste",
-  "version": "1.0.0",
-  "description": "[![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope) [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-	  "install": "./install.sh",
-	  "start": "node my_app/main.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NewsResources/outilsjournaliste.git"
-  },
-  "author": "Cedric Motte et Jeremie Poiroux",
-  "license": "MIT"
-  },
-"setupPhantom": true,
-"engines": {
-  "node": "0.12.2",
-"bugs": {
-  "url": "https://github.com/NewsResources/outilsjournaliste/issues"
-},
-  "homepage": "https://github.com/NewsResources/outilsjournaliste"
-}
+    "name": "outilsjournaliste",
+    "version": "1.0.0",
+    "description": "[![Build Status](https://travis-ci.org/TelescopeJS/Telescope.svg)](https://travis-ci.org/TelescopeJS/Telescope) [![Code Climate](https://codeclimate.com/github/TelescopeJS/Telescope/badges/gpa.svg)](https://codeclimate.com/github/TelescopeJS/Telescope)",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "install": "./install.sh",
+        "start": "node my_app/main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NewsResources/outilsjournaliste.git"
+    },
+    "author": "Cedric Motte et Jeremie Poiroux",
+    "license": "MIT",
+    "setupPhantom": true,
+    "engines": {
+        "node": "0.12.2",
+        "bugs": {
+            "url": "https://github.com/NewsResources/outilsjournaliste/issues",
+            "homepage": "https://github.com/NewsResources/outilsjournaliste"
+        }
